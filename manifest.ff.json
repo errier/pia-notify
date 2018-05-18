@@ -18,5 +18,10 @@
       "matches": ["*://*/*"],
       "js": ["js/contentScript.js"]
     }
-  ]
+  ],
+  "applications": {
+    "gecko": {
+      "id": "pia-notify@rohde.nu"
+    }
+  }
 }
